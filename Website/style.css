@@ -1,0 +1,14 @@
+.text { font-size: xxx-large;
+  color: rgb(0, 217, 255)
+}
+
+.support {
+  width: 1380px;
+  height: 430%;
+  background-image: url(img/support.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  backface-visibility: visible;
+  background-attachment: fixed;
+}
